@@ -6,7 +6,7 @@ Product analytics project analyzing a mobile game A/B test using Python, hypothe
 This project analyzes an A/B experiment from the mobile game Cookie Cats to determine whether moving the first progression gate affects player retention.
 
 ## Dataset
-The dataset contains gameplay information for over 90,000 players, including:
+The dataset is sourced from Kaggle and it contains gameplay information for over 90,000 players, including:
 - number of game rounds
 - day 1 retention
 - day 7 retention
